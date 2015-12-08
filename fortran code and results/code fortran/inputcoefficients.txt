@@ -1,0 +1,7 @@
+7.d-6	!D
+0		!nu
+3 		!Longueur en m
+100		!mesh size
+36000	!nombre de secondes
+0.25	!Rho x=0
+0		!Rho x=L
